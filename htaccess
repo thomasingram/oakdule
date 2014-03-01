@@ -1,0 +1,7 @@
+#Register1 PHP Upgrade
+Action php5-cgi /cgi-bin/php53-cgi
+AddHandler php5-cgi .php
+
+RewriteEngine on
+RewriteCond $1 !^(css|fonts|img|index\.php|info\.php|js|robots\.txt)
+RewriteRule ^(.*)$ /index.php/$1 [L]

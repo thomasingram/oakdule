@@ -1,0 +1,37 @@
+/* @license
+ * MyFonts Webfont Build ID 2386412, 2012-10-17T06:15:45-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Clarendon Light by Bitstream
+ * URL: http://www.myfonts.com/fonts/bitstream/clarendon/light/
+ * Copyright: Copyright 1990-2003 Bitstream Inc. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2386412
+ * 
+ * © 2012 Bitstream Inc
+*/
+
+@font-face {
+	font-family: ClarendonBT-Light;
+	src: url("../fonts/ClarendonBT-Light-webfont.eot");
+	src: url("../fonts/ClarendonBT-Light-webfont.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/ClarendonBT-Light-webfont.woff") format("woff"),
+		url("../fonts/ClarendonBT-Light-webfont.ttf") format("truetype"),
+		url("../fonts/ClarendonBT-Light-webfont.svg#wf") format("svg");
+}
+
+@font-face {
+	font-family: ClarendonBT-Heavy;
+	src: url("../fonts/ClarendonBT-Heavy-webfont.eot");
+	src: url("../fonts/ClarendonBT-Heavy-webfont.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/ClarendonBT-Heavy-webfont.woff") format("woff"),
+		url("../fonts/ClarendonBT-Heavy-webfont.ttf") format("truetype"),
+		url("../fonts/ClarendonBT-Heavy-webfont.svg#wf") format("svg");
+}
